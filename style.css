@@ -64,7 +64,36 @@ nav a {
 }
 
 .hero h2 {
-    font-size: 3rem;
+
+  font-size: 4rem;
+
+  color: white;
+
+  font-weight: 700;
+
+  text-shadow:
+    0 0 10px rgba(0,0,0,0.8),
+    0 0 20px rgba(0,0,0,0.8);
+
+  margin-bottom: 25px;
+
+}
+
+.hero p {
+
+  color: white;
+
+  font-size: 1.3rem;
+
+  font-weight: 400;
+
+  text-shadow:
+    0 0 8px rgba(0,0,0,0.9);
+
+  max-width: 900px;
+
+  line-height: 1.8;
+
 }
 
 .hero button {
