@@ -108,6 +108,37 @@ nav a {
     cursor: pointer;
 }
 
+.hero-button {
+
+    display: inline-block;
+
+    padding: 12px 25px;
+
+    background: #00b4d8;
+
+    color: white;
+
+    border-radius: 5px;
+
+    text-decoration: none;
+
+    font-weight: 600;
+
+    margin-top: 20px;
+
+    transition: 0.3s ease;
+
+}
+
+.hero-button:hover {
+
+    background: #0096c7;
+
+    transform: translateY(-2px);
+
+}
+
+
 section {
     padding: 60px 10%;
 }
